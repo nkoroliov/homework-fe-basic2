@@ -13,8 +13,15 @@ h1{
 .horizontal-line{
     background-color: gray;
     height: 1px;
-    border: none;
-    
+    border: none;  
+}
+
+.header-heading{
+    margin-bottom: 10px;
+}
+
+.header-paragraph{
+    margin-top: 28px;
 }
 
 .shuttles-heading{
