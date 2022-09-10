@@ -1,0 +1,31 @@
+body{
+    font-family: 'Arial', sans-serif;
+    font-size: 15px;
+    margin: 30px 50px;
+    width: 620px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 32px;
+}
+
+.horizontal-line{
+    background-color: gray;
+    height: 1px;
+    border: none;
+    
+}
+
+.shuttles-heading{
+    margin-bottom: 0px;
+}
+
+.shuttles-paragraph{
+    margin-bottom: 3px; 
+    margin-top: 3px;
+}
+
+ul{
+    margin-top: 0;
+}
